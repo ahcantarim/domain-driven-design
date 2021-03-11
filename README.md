@@ -57,16 +57,6 @@
 
 <!-- [![Screenshot][product-screenshot]][product-screenshot] -->
 
-Aqui está um modelo em branco para você começar a documentação do seu projeto de forma padronizada.
-
-**Para evitar redigitar muita informação, faça uma busca e substitua os seguintes termos em seu editor de textos:**
-- `ahcantarim` » Seu nome de usuário do Github
-- `André Cantarim` » Seu nome completo
-- `domain-driven-design` » Nome do repositório do Github
-- `https://github.com/ahcantarim/domain-driven-design` » URL do repositório do Github
-- `Domain-Driven Design` » Título do projeto
-- `[CONST_DEMO_URL]` » URL da demonstração (se houver)
-
 
 ### Tecnologias utilizadas
 
@@ -157,6 +147,7 @@ André Cantarim
 ## Referências
 
 * [Uma arquitetura, em .Net Core, baseada nos princípios do DDD](https://github.com/alexalvess/layer-architecture/wiki/Uma-arquitetura,-em-.Net-Core,-baseada-nos-princ%C3%ADpios-do-DDD)
+* [Projetar um microsserviço orientado a DDD](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>
