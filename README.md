@@ -44,8 +44,6 @@
         </ul>
     </li>
     <li><a href="#utilizando-a-aplicação">Utilizando a aplicação</a></li>
-    <li><a href="#roteiro-de-melhorias">Roteiro de melhorias</a></li>
-    <li><a href="#contribuições">Contribuições</a></li>
     <li><a href="#licença">Licença</a></li>
     <li><a href="#contato">Contato</a></li>
     <li><a href="#referências">Referências</a></li>
@@ -63,6 +61,8 @@
 * AutoMapper
 * FluentValidation.AspNetCore
 * Microsoft.EntityFrameworkCore
+* MySqlConnector
+* Pomelo.EntityFrameworkCore.MySql
 
 <!-- GETTING STARTED -->
 ## Configurações do ambiente de desenvolvimento
@@ -71,11 +71,7 @@ Para obter uma cópia local atualizada e que possa ser executada corretamente, s
 
 ### Pré-requisitos
 
-Aqui está um exemplo de como listar itens que seu projeto utiliza e como instalá-los.
-
-```bash
-npm install npm@latest -g
-```
+...
 
 
 ### Clonando o repositório
@@ -87,45 +83,13 @@ git clone https://github.com/ahcantarim/domain-driven-design.git
 
 ### Instalando as dependências
 
-No diretório do projeto, executar o(s) comando(s):
-
-```bash
-npm install
-```
+...
 
 
 <!-- USAGE EXAMPLES -->
 ## Utilizando a aplicação
 
-No diretório do projeto, executar o(s) comando(s):
-
-```bash
-npm start
-```
-
-Será inicializado o servidor de desenvolvimento, que pode ser acessado através do *browser* no endereço <http://localhost:3000>.
-
-
-<!-- ROADMAP -->
-## Roteiro de melhorias
-
-- [x] Melhoria 1 (já implementada)
-- [ ] Melhoria 2 (a implementar)
-- [ ] ...
-- [ ] Melhoria X (a implementar)
-
-
-<!-- CONTRIBUTING -->
-## Contribuições
-
-Contribuições são o que fazem a comunidade *open source* um local surpreendente para aprender, inspirar e criar. Qualquer contribuição que você fizer será **de grande valia**.
-
-1. Faça um *fork* desse repositório ni GitHub.
-2. Faça um *clone* do repositório *fork* criado (`git clone https://github.com/ahcantarim/domain-driven-design`).
-3. Crie um *branch* para *commitar* sua funcionalidade ou correção (`git checkout -b MyAmazingFeature`).
-4. Faça o *commit* das alterações (`git commit -m 'Add my amazing feature`).
-5. Faça o *push* da sua *branch* para o seu *fork* (`git push origin MyAmazingFeature`).
-6. Vá para as [Pull requests](https://github.com/ahcantarim/domain-driven-design/pulls) e abra uma nova requisição com o(s) seu(s) *commits(s)*.
+...
 
 
 <!-- LICENSE -->
@@ -146,6 +110,8 @@ André Cantarim
 ## Referências
 
 * [Uma arquitetura, em .Net Core, baseada nos princípios do DDD](https://github.com/alexalvess/layer-architecture/wiki/Uma-arquitetura,-em-.Net-Core,-baseada-nos-princ%C3%ADpios-do-DDD)
+* [DDD não é arquitetura em camadas](https://www.eduardopires.net.br/2016/08/ddd-nao-e-arquitetura-em-camadas/)
+* [Tutorial ASP.NET MVC 5 + DDD + EF + AutoMapper + IoC + Dicas e Truques](https://www.eduardopires.net.br/2014/10/tutorial-asp-net-mvc-5-ddd-ef-automapper-ioc-dicas-e-truques/)
 * [Projetar um microsserviço orientado a DDD](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
 
 
