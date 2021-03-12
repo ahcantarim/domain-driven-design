@@ -46,6 +46,8 @@ namespace Layer.Architecture.Application
             {
                 endpoints.MapControllers();
             });
+
+            //TODO: Configurar
         }
     }
 }

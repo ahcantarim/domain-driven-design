@@ -60,10 +60,9 @@
 
 ### Tecnologias utilizadas
 
-* [Tecnologia 1](#link_para_tecnologia_1)
-* [Tecnologia 2](#link_para_tecnologia_2)
-* ...
-* [Tecnologia X](#link_para_tecnologia_X)
+* AutoMapper
+* FluentValidation.AspNetCore
+* Microsoft.EntityFrameworkCore
 
 <!-- GETTING STARTED -->
 ## Configurações do ambiente de desenvolvimento
